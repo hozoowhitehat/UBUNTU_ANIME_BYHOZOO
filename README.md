@@ -1,8 +1,11 @@
 # UBUNTU_ANIME_BYHOZOO
 💻📱
 
+git clone https://github.com/hozoowhitehat/UBUNTU_ANIME_BYHOZOO
 
 
+
+cd UBUNTU_ANIME_BYHOZOO
 
 sudo docker run --rm \
   --interactive \
